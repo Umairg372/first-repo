@@ -1,2 +1,3 @@
 # first-repo
-it is my first repository through github
+it is my first repository 
+Author-Umair
